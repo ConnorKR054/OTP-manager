@@ -1,0 +1,36 @@
+    h1
+    {
+        text-align: center;
+    }
+    div {
+        
+        align-items: center;
+      }
+      
+      button
+      {
+          align-items: center;
+          
+      }
+      hr  {
+        align-content : center;
+        width : 20%;
+        margin-left : auto;
+        margin-right : auto;
+         }  
+    .col
+    {
+        text-align: center;
+    }
+      
+    body{
+        background-color: #1F1D36;
+        padding: 5%;
+        width: 100%;
+        color: #FBF3E4;
+    }
+   
+    @media (min-width:576px) {
+        
+    }
+   
